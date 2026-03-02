@@ -2,6 +2,7 @@
 
 #include "git-compat-util.h"
 #include "advice.h"
+#include "stdio.h"
 #include "config.h"
 #include "branch.h"
 #include "environment.h"
